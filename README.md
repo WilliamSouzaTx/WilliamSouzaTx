@@ -1,6 +1,6 @@
 ## Olá ! Eu sou William de Souza Teixeira.
 - Estudante de Analise e Desenvolvimento de sistemas pela UNICID.<br>
-- Estudante de Desenvolvimento Front End autodidata e pela plataforma devmedia.<br>
+- Estudante de Desenvolvimento Front End pela plataforma devmedia.<br>
 
 
 ## 🌐 Socials:
